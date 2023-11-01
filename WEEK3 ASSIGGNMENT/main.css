@@ -1,0 +1,35 @@
+header{
+    background-color: #606c38;
+    color: antiquewhite;
+    text-align: center;
+    padding: 40px;
+    width: 100%;
+}
+.left .column{
+float: left;
+background-color: #dda15e;
+padding left: 20px;
+width: 20%
+}
+.column {
+    background-color: #283618;
+    color: bisque;
+    padding: 50px;
+    text-align: center;
+    width:100%;
+    float: left
+}
+.middle .column{
+    background-color: #606c38;
+    color: antiquewhite;
+    padding-right: 20px;
+    width:20%
+}
+footer {
+    background-color: #bc6c25;
+    color: antiquewhite;
+    text-align: center;
+    padding: 30px;
+    width: 100%;
+    float:right;
+}
